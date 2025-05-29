@@ -1,10 +1,5 @@
 # E-commerce Analytics
 
-![E-commerce Analytics](https://img.shields.io/badge/E--commerce-Analytics-blue)
-![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen)
-![Polars](https://img.shields.io/badge/Polars-Data%20Processing-orange)
-![Power BI](https://img.shields.io/badge/Power%20BI-Integration-yellow)
-
 A comprehensive solution for e-commerce data analysis, with advanced data processing capabilities, in-depth analytics, and Microsoft Power BI integration.
 
 ## 📋 Table of Contents

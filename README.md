@@ -1,9 +1,5 @@
 # E-commerce Analytics
 
-![E-commerce Analytics](https://img.shields.io/badge/Python-E--commerce%20Analytics-blue)
-![Power BI](https://img.shields.io/badge/Integration-Power%20BI-yellow)
-![Data Analysis](https://img.shields.io/badge/Data-Analysis-green)
-
 Um sistema completo de análise de dados para e-commerce com integração ao Power BI, desenvolvido em Python.
 
 ## 📋 Visão Geral

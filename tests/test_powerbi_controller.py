@@ -1,4 +1,3 @@
-# tests/test_powerbi_controller.py
 import os
 import pytest
 import polars as pl
